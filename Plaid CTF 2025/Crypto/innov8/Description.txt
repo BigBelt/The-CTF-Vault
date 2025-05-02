@@ -1,0 +1,7 @@
+Excav8
+
+Remember the past. (Solving this gives the password for part 2's server and handout.)
+
+Enerv8
+
+Control the future. (The handout is encrypted with `gpg` using the password from solving part 1.)

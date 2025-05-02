@@ -1,0 +1,13 @@
+PPP did not have their challenges on any GitHub.
+
+I moved all these manually.
+
+I included :
+
+PWN
+Reversing
+Crypto
+ 
+#--------------------------------------#
+
+I also manually put the descriptions for each challenge. Hopefully they work!
